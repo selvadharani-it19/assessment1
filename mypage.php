@@ -33,8 +33,8 @@
 
 <br>            HOBBIES :
 <ol>
-<li>READING BOOKS</li>
-<li>litsening to music</li>
+<li>DANCING</li>
+<li>DRAWING</li>
 </ol>
 </b>
 </pre>
