@@ -4,17 +4,17 @@
 <body style="font-size:20px;background-color:lightgreen;"><b>
 <h1 style="text-align:center;font-size:30px;">BIO-DATA</h1>
 <br><pre>
-<br>               NAME : SELVADHARANI K<br>
-<br>               DOB  : 09-04-2002<br>
-<br>               AGE  : 17<br>
-<br>      FATHER'S NAME : KUPPURAJ A<br>
-<br>      MOTHER'S NAME : PERIYANAYAKI K<br>
+<br>NAME                : SELVADHARANI K<br>
+<br>DOB                 : 09-04-2002<br>
+<br>AGE                 : 17<br>
+<br> FATHER'S NAME      : KUPPURAJ A<br>
+<br>MOTHER'S NAME       : PERIYANAYAKI K<br>
 <br>FATHER'S OCCUPATION : AGRICULTURE<br>
-<br>    KNOWN LANGUAGES : TAMIL,ENGLISH.<br> 
-<br>            ADDRESS : DHARAPURAM,TIRUPPUR DT<br>
-<br>        BLOOD GROUP : A+ve<br>
-<br>           RELIGION : HINDU<br>
-<br>   ACADEMIC RESULTS :<br>
+<br>KNOWN LANGUAGES     : TAMIL,ENGLISH.<br> 
+<br>ADDRESS             : DHARAPURAM,TIRUPPUR DT<br>
+<br>BLOOD GROUP         : A+ve<br>
+<br>RELIGION            : HINDU<br>
+<br>ACADEMIC RESULTS    :<br>
 <br>
 <table border="2" style="font-size:25px;">
 <tr>
@@ -31,11 +31,11 @@
 </table>
 <br> EXTRA QUALIFICATION: TYPE WRITING IN BOTH ENGLISH AND TAMIL<br>
 
-<br>            HOBBIES :
-<ol>
+<br> HOBBIES            :
+<ul>
 <li>DANCING</li>
 <li>DRAWING</li>
-</ol>
+</ul>
 </b>
 </pre>
 </body>
