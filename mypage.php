@@ -1,7 +1,7 @@
 <html>
 <head>
 </head>
-<body style="font-size:20px;background-color:darkcyane;"><b>
+<body style="font-size:20px;background-color:darkcyan;"><b>
 <h1 style="text-align:center;font-size:30px;">BIO-DATA</h1>
 <br><pre>
 <br>NAME                : SELVADHARANI K<br>
