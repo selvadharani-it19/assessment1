@@ -20,8 +20,8 @@
 <tr>
 <td>10<sup>nth</td>
 
-<td>11<sup>nth</td>
-<td>12<sup>nth</td>
+<th>11<sup>nth</th>
+<th>12<sup>nth</th>
 </tr>
 <tr>
 <td>94.5%</td>
